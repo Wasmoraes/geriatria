@@ -100,14 +100,14 @@ body{
 img{
 
   object-fit: cover;
-  height: 400px;
+  height: 40vh;
   width:535px;
 }
 
 .container-um{
   transition: 1s;
   color: #666666;;
-  min-height: 50vh;         //mexer
+  min-height: 48vh;         //mexer
   max-height: 200vh;
   text-align: center;
   background-color: #fcfcfc;
